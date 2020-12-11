@@ -1,0 +1,12 @@
+1. #touch myfile
+2. #vi myfile
+   Press "i" to edit
+3. My name is Aarish
+   304/2, SR nagar, Whitefield
+   Email- aarish.ind1@gmail.com
+   Phone- 7019692890
+   Blood Group - O+
+
+   To save - Press Esc :wq Enter
+
+4. Esc /Aarish and /O+
